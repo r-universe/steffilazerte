@@ -1,0 +1,8 @@
+[
+  {
+    "package": "leaflet",
+    "url": "https://github.com/rstudio/leaflet",
+    "via": ["feedr"],
+    "from": "feedr"
+  }
+]

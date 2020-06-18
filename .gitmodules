@@ -53,3 +53,8 @@
 	url = https://github.com/psolymos/moosecounter
 	shallow = true
 	registered = true
+[submodule "leaflet"]
+	path = leaflet
+	url = https://github.com/rstudio/leaflet
+	shallow = true
+	registered = false
