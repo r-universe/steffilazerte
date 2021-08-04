@@ -58,3 +58,18 @@
 	url = https://github.com/rstudio/leaflet
 	shallow = true
 	registered = false
+[submodule "rems"]
+	path = rems
+	url = https://github.com/bcgov/rems
+	shallow = true
+	registered = false
+[submodule "smwrBase"]
+	path = smwrBase
+	url = https://github.com/USGS-R/smwrBase
+	shallow = true
+	registered = false
+[submodule "smwrGraphs"]
+	path = smwrGraphs
+	url = https://github.com/USGS-R/smwrGraphs
+	shallow = true
+	registered = false
