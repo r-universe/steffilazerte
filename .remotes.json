@@ -1,5 +1,11 @@
 [
   {
+    "package": "emo",
+    "url": "https://github.com/hadley/emo",
+    "via": ["bcgwlreports"],
+    "from": "bcgwlreports"
+  },
+  {
     "package": "leaflet",
     "url": "https://github.com/rstudio/leaflet",
     "via": ["feedr"],
