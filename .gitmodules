@@ -38,11 +38,6 @@
 	url = https://github.com/bcgov/rems2aquachem
 	shallow = true
 	registered = true
-[submodule "aquifer-factsheets"]
-	path = aquifer-factsheets
-	url = https://github.com/bcgov/aquifer-factsheets
-	shallow = true
-	registered = true
 [submodule "bcgwlreports"]
 	path = bcgwlreports
 	url = https://github.com/bcgov/bcgwlreports
