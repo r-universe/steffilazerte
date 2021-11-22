@@ -1,5 +1,55 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/steffilazerte/universe
 	shallow = true
 	branch = HEAD
+[submodule "weathercan"]
+	path = weathercan
+	url = https://github.com/ropensci/weathercan
+	shallow = true
+	registered = true
+[submodule "LITAP"]
+	path = LITAP
+	url = https://github.com/FRDC-SHL/LITAP
+	shallow = true
+	registered = true
+[submodule "cavityuse"]
+	path = cavityuse
+	url = https://github.com/steffilazerte/cavityuse
+	shallow = true
+	registered = true
+[submodule "feedr"]
+	path = feedr
+	url = https://github.com/animalnexus/feedr
+	shallow = true
+	registered = true
+[submodule "motus"]
+	path = motus
+	url = https://github.com/MotusWTS/motus
+	shallow = true
+	registered = true
+[submodule "naturecounts"]
+	path = naturecounts
+	url = https://github.com/BirdStudiesCanada/naturecounts
+	shallow = true
+	registered = true
+[submodule "rems2aquachem"]
+	path = rems2aquachem
+	url = https://github.com/bcgov/rems2aquachem
+	shallow = true
+	registered = true
+[submodule "aquifer-factsheets"]
+	path = aquifer-factsheets
+	url = https://github.com/bcgov/aquifer-factsheets
+	shallow = true
+	registered = true
+[submodule "bcgwlreports"]
+	path = bcgwlreports
+	url = https://github.com/bcgov/bcgwlreports
+	shallow = true
+	registered = true
+[submodule "moosecounter"]
+	path = moosecounter
+	url = https://github.com/psolymos/moosecounter
+	shallow = true
+	registered = true

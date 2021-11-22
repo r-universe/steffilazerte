@@ -1,0 +1,32 @@
+[
+  {
+    "package": "weathercan"
+  },
+  {
+    "package": "LITAP"
+  },
+  {
+    "package": "cavityuse"
+  },
+  {
+    "package": "feedr"
+  },
+  {
+    "package": "motus"
+  },
+  {
+    "package": "naturecounts"
+  },
+  {
+    "package": "rems2aquachem"
+  },
+  {
+    "package": "aquifer-factsheets"
+  },
+  {
+    "package": "bcgwlreports"
+  },
+  {
+    "package": "moosecounter"
+  }
+]
