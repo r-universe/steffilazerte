@@ -58,11 +58,6 @@
 	url = https://github.com/hadley/emo
 	shallow = true
 	registered = false
-[submodule "leaflet"]
-	path = leaflet
-	url = https://github.com/rstudio/leaflet
-	shallow = true
-	registered = false
 [submodule "rems"]
 	path = rems
 	url = https://github.com/bcgov/rems
