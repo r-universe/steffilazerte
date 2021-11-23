@@ -23,6 +23,11 @@
 	url = https://github.com/animalnexus/feedr
 	shallow = true
 	registered = true
+[submodule "feedrUI"]
+	path = feedrUI
+	url = https://github.com/animalnexus/feedrUI
+	shallow = true
+	registered = true
 [submodule "motus"]
 	path = motus
 	url = https://github.com/MotusWTS/motus
