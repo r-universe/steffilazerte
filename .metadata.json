@@ -1,7 +1,7 @@
 [
   {
     "package": "weathercan",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "LITAP"
