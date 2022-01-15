@@ -48,6 +48,11 @@
 	url = https://github.com/bcgov/bcgwlreports
 	shallow = true
 	registered = true
+[submodule "bcaquiferdata"]
+	path = bcaquiferdata
+	url = https://github.com/steffilazerte/bcaquiferdata
+	shallow = true
+	registered = true
 [submodule "moosecounter"]
 	path = moosecounter
 	url = https://github.com/psolymos/moosecounter

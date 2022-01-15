@@ -27,6 +27,9 @@
     "package": "bcgwlreports"
   },
   {
+    "package": "bcaquiferdata"
+  },
+  {
     "package": "moosecounter"
   }
 ]
