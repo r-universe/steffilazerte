@@ -58,6 +58,11 @@
 	url = https://github.com/psolymos/moosecounter
 	shallow = true
 	registered = true
+[submodule "fasstrshiny"]
+	path = fasstrshiny
+	url = https://github.com/bcgov/fasstrshiny
+	shallow = true
+	registered = true
 [submodule "emo"]
 	path = emo
 	url = https://github.com/hadley/emo
