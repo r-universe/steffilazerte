@@ -31,8 +31,5 @@
   },
   {
     "package": "moosecounter"
-  },
-  {
-    "package": "fasstrshiny"
   }
 ]
