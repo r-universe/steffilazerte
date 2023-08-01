@@ -2,47 +2,44 @@
 	path = .registry
 	url = https://github.com/steffilazerte/universe
 	branch = HEAD
-[submodule "weathercan"]
-	path = weathercan
-	url = https://github.com/ropensci/weathercan
 [submodule "LITAP"]
 	path = LITAP
 	url = https://github.com/FRDC-SHL/LITAP
+[submodule "bcaquiferdata"]
+	path = bcaquiferdata
+	url = https://github.com/steffilazerte/bcaquiferdata
+[submodule "bcgwlreports"]
+	path = bcgwlreports
+	url = https://github.com/bcgov/bcgwlreports
 [submodule "cavityuse"]
 	path = cavityuse
 	url = https://github.com/steffilazerte/cavityuse
+[submodule "emo"]
+	path = emo
+	url = https://github.com/hadley/emo
+	registered = false
 [submodule "feedr"]
 	path = feedr
 	url = https://github.com/animalnexus/feedr
 [submodule "feedrUI"]
 	path = feedrUI
 	url = https://github.com/animalnexus/feedrUI
+[submodule "moosecounter"]
+	path = moosecounter
+	url = https://github.com/psolymos/moosecounter
 [submodule "motus"]
 	path = motus
 	url = https://github.com/MotusWTS/motus
 [submodule "naturecounts"]
 	path = naturecounts
 	url = https://github.com/BirdStudiesCanada/naturecounts
-[submodule "rems2aquachem"]
-	path = rems2aquachem
-	url = https://github.com/bcgov/rems2aquachem
-[submodule "bcgwlreports"]
-	path = bcgwlreports
-	url = https://github.com/bcgov/bcgwlreports
-[submodule "bcaquiferdata"]
-	path = bcaquiferdata
-	url = https://github.com/steffilazerte/bcaquiferdata
-[submodule "moosecounter"]
-	path = moosecounter
-	url = https://github.com/psolymos/moosecounter
-[submodule "emo"]
-	path = emo
-	url = https://github.com/hadley/emo
-	registered = false
 [submodule "rems"]
 	path = rems
 	url = https://github.com/bcgov/rems
 	registered = false
+[submodule "rems2aquachem"]
+	path = rems2aquachem
+	url = https://github.com/bcgov/rems2aquachem
 [submodule "smwrBase"]
 	path = smwrBase
 	url = https://github.com/USGS-R/smwrBase
@@ -51,3 +48,6 @@
 	path = smwrGraphs
 	url = https://github.com/USGS-R/smwrGraphs
 	registered = false
+[submodule "weathercan"]
+	path = weathercan
+	url = https://github.com/ropensci/weathercan
