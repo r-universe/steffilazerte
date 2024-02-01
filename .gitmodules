@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/steffilazerte/universe
+	url = https://github.com/steffilazerte/steffilazerte.r-universe.dev
 	branch = HEAD
 [submodule "LITAP"]
 	path = LITAP
