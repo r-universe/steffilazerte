@@ -10,23 +10,5 @@
     "url": "https://github.com/animalnexus/feedr",
     "via": ["feedrUI"],
     "from": "feedrUI"
-  },
-  {
-    "package": "rems",
-    "url": "https://github.com/bcgov/rems",
-    "via": ["rems2aquachem"],
-    "from": "rems2aquachem"
-  },
-  {
-    "package": "smwrBase",
-    "url": "https://github.com/USGS-R/smwrBase",
-    "via": ["rems2aquachem"],
-    "from": "rems2aquachem"
-  },
-  {
-    "package": "smwrGraphs",
-    "url": "https://github.com/USGS-R/smwrGraphs",
-    "via": ["rems2aquachem"],
-    "from": "rems2aquachem"
   }
 ]

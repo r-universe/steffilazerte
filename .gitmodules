@@ -36,18 +36,6 @@
 [submodule "naturecounts"]
 	path = naturecounts
 	url = https://github.com/BirdStudiesCanada/naturecounts
-[submodule "rems"]
-	path = rems
-	url = https://github.com/bcgov/rems
-	registered = false
-[submodule "smwrBase"]
-	path = smwrBase
-	url = https://github.com/USGS-R/smwrBase
-	registered = false
-[submodule "smwrGraphs"]
-	path = smwrGraphs
-	url = https://github.com/USGS-R/smwrGraphs
-	registered = false
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
