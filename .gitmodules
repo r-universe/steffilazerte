@@ -7,7 +7,10 @@
 	url = https://github.com/FRDC-SHL/LITAP
 [submodule "bcaquiferdata"]
 	path = bcaquiferdata
-	url = https://github.com/steffilazerte/bcaquiferdata
+	url = https://github.com/bcgov/bcaquiferdata
+[submodule "bcgwcats"]
+	path = bcgwcats
+	url = https://github.com/bcgov/bcgwcats
 [submodule "bcgwlreports"]
 	path = bcgwlreports
 	url = https://github.com/bcgov/bcgwlreports
@@ -37,9 +40,6 @@
 	path = rems
 	url = https://github.com/bcgov/rems
 	registered = false
-[submodule "rems2aquachem"]
-	path = rems2aquachem
-	url = https://github.com/bcgov/rems2aquachem
 [submodule "smwrBase"]
 	path = smwrBase
 	url = https://github.com/USGS-R/smwrBase
