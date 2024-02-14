@@ -8,9 +8,9 @@
 [submodule "bcaquiferdata"]
 	path = bcaquiferdata
 	url = https://github.com/bcgov/bcaquiferdata
-[submodule "bcgwcats"]
-	path = bcgwcats
-	url = https://github.com/bcgov/bcgwcats
+[submodule "bcgwcat"]
+	path = bcgwcat
+	url = https://github.com/bcgov/bcgwcat
 [submodule "bcgwlreports"]
 	path = bcgwlreports
 	url = https://github.com/bcgov/bcgwlreports
