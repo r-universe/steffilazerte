@@ -10,5 +10,23 @@
     "url": "https://github.com/animalnexus/feedr",
     "via": ["feedrUI"],
     "from": "feedrUI"
+  },
+  {
+    "package": "rems",
+    "url": "https://github.com/bcgov/rems",
+    "via": ["bcgwcat"],
+    "from": "bcgwcat"
+  },
+  {
+    "package": "smwrBase",
+    "url": "https://github.com/USGS-R/smwrBase",
+    "via": ["bcgwcat"],
+    "from": "bcgwcat"
+  },
+  {
+    "package": "smwrGraphs",
+    "url": "https://github.com/USGS-R/smwrGraphs",
+    "via": ["bcgwcat"],
+    "from": "bcgwcat"
   }
 ]
