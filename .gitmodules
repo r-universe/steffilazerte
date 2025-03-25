@@ -51,3 +51,4 @@
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
+	branch = *release
