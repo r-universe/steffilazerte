@@ -18,6 +18,12 @@
     "from": "bcgwcat"
   },
   {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["naturecounts"],
+    "from": "naturecounts"
+  },
+  {
     "package": "smwrBase",
     "url": "https://github.com/USGS-R/smwrBase",
     "via": ["bcgwcat"],

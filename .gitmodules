@@ -40,6 +40,10 @@
 	path = rems
 	url = https://github.com/bcgov/rems
 	registered = false
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	registered = false
 [submodule "smwrBase"]
 	path = smwrBase
 	url = https://github.com/USGS-R/smwrBase
